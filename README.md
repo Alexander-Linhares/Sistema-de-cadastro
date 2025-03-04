@@ -2,6 +2,4 @@
 
 > Status: em desenvolvimento
 
-```
-npm install apache
-```
+
