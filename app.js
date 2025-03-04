@@ -5,3 +5,4 @@ console.log("este é o arquivo js principal do projeto")
 */
 
 console.log("Agora estou trabalhando com você")
+console.log("nova alteração")
