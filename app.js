@@ -1,2 +1,2 @@
-console.log("Este é o sistema de cadastro")
+console.log("este é o arquivo js principal do projeto")
 
